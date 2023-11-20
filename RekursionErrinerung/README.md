@@ -1,0 +1,3 @@
+RekursionErrinerung
+
+Hier werden kleinere Rekursionstests Ausgeführt zur besseren Visualisierung
